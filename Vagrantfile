@@ -6,7 +6,7 @@ machines = {
     "cpu"         => "1", 
     "ip"          => "10",
     "image"       => "bento/ubuntu-22.04"
-    },
+  },
   "node01" => {
     "memory"      => "512", 
     "cpu"         => "1", 

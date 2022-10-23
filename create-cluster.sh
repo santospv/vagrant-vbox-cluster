@@ -19,4 +19,3 @@ docker service create --name meu-app --replicas 10 -dt -p 80:80 --mount type=vol
 
 #removendo lixos
 rm -rf /home/vagrant/main.zip
-rm -rf /home/vagrant/*
